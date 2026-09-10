@@ -49,7 +49,7 @@ src/
 1. Clone o repositório:
 
 ```bash
-git clone (https://github.com/CeluppiEnzo/sistema-bancario-java)
+git clone https://github.com/CeluppiEnzo/sistema-bancario-java
 ```
 
 2. Abra o projeto em uma IDE compatível com Java.
